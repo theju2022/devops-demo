@@ -1,0 +1,5 @@
+to initialise a repository in localcomputer =>git init
+to check the file is in stagingarea/workingarea => git status
+to add the files tostaging area=> git add filename/git add file1 file2/git ./git */git -A
+to commit the code=> git commit -m "message"
+to check the activities => git log

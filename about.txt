@@ -1,0 +1,7 @@
+About git and github
+
+Git is a version control tool
+maintains developer's code
+
+
+github is a central repository to store the code
